@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = "https://omkr27.github.com"
 languageCode = 'en-us'
 title = "Omkar's Site"
 theme= "aether"
